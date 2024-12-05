@@ -15,6 +15,7 @@ La aplicación ofrece una interfaz gráfica intuitiva utilizando Java Swing, fac
 
 ## Requisitos
 
+- **Java Enviroment**: Asegúrate de tener instalado Java Enviroment en tu equipo para poder ejecutar AppSorteosFEMT.exe
 - **Java JDK**: Asegúrate de tener instalado Java Development Kit (JDK) 8 o superior.
 - **IDE**: Se recomienda usar un IDE como IntelliJ IDEA, Eclipse o NetBeans para facilitar el desarrollo y su ejecución.
 
