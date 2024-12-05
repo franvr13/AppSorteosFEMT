@@ -17,3 +17,18 @@ La aplicación ofrece una interfaz gráfica intuitiva utilizando Java Swing, fac
 
 - **Java JDK**: Asegúrate de tener instalado Java Development Kit (JDK) 8 o superior.
 - **IDE**: Se recomienda usar un IDE como IntelliJ IDEA, Eclipse o NetBeans para facilitar el desarrollo y su ejecución.
+
+## Estado del proyecto:
+
+- Versión Actual: 1.0.0
+- Estado: En desarrollo...
+
+## Contacto
+Para preguntas o comentarios, puedes contactarme en:
+
+Nombre: [Francisco Villalba Roldán]
+Email: [f13villalbaroldan@gmail.com]
+GitHub: franvr13
+
+## Licencia
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
