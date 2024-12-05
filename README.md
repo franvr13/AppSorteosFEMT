@@ -27,8 +27,8 @@ La aplicación ofrece una interfaz gráfica intuitiva utilizando Java Swing, fac
 Para preguntas o comentarios, puedes contactarme en:
 
 Nombre: Francisco Villalba Roldán
-Email: [mail](mailto:f13villalbaroldan@gmail.com)
-LinkedIn: [linkedin](https://www.linkedin.com/in/franciscovillalbaroldán/)
+Email: [Mail](mailto:f13villalbaroldan@gmail.com)
+LinkedIn: [Linkedin](https://www.linkedin.com/in/franciscovillalbaroldán/)
 GitHub: franvr13
 
 ## Licencia
