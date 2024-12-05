@@ -22,6 +22,7 @@ La aplicación ofrece una interfaz gráfica intuitiva utilizando Java Swing, fac
 ## Estado del proyecto:
 
 - Versión Actual: 1.0.0
+- Versión escritorio ejecutable disponible 1.0.0
 - Estado: En desarrollo...
 
 ## Contacto
